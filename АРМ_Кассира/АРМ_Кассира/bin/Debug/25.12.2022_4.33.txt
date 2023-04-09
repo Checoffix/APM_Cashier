@@ -1,0 +1,4 @@
+25.12.2022 4:33:44
+0: Топоры Price: 200 Count: 7 AllSum: 1400
+All Sum: 2000
+Was paid by card

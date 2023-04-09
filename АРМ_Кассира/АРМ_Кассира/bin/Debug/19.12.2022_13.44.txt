@@ -1,0 +1,5 @@
+0: hleb Price: 100 Count: 0,564кг AllSum: 56,4
+1: Ice cream Price: 83 Count: 3 AllSum: 249
+All Sum: 249
+Change: 1
+Was paid by cash

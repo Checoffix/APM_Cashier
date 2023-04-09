@@ -1,0 +1,5 @@
+16.12.2022 14:36:22
+0 0 0 Crisp 109 3 327
+1 1 1 Ice cream 83 2 166
+All Sum: 493
+Was paid by card

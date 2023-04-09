@@ -1,0 +1,5 @@
+25.12.2022 19:39:54
+0: Топоры Price: 200 Count: 3 AllSum: 600
+1: Камень Price: 10 Count: 0,459кг AllSum: 4,59
+All Sum: 604,59
+Was paid by card

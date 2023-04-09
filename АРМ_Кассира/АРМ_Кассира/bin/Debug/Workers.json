@@ -1,0 +1,27 @@
+[
+  {
+    "Login": "admin",
+    "Password": "�A�Hb5i�^*{\t���w�\u0026�E���Ƙ�\b�y",
+    "Root": true
+  },
+  {
+    "Login": "root",
+    "Password": "�=���o��u��\rS;�E�ɇ9��1\u0004`����L#*",
+    "Root": true
+  },
+  {
+    "Login": "test",
+    "Password": "0��d\"\u0013@��\"�k�\u0013�B$�\u001bD\u0015�\"\u0016\u003e�I�}�Hx",
+    "Root": false
+  },
+  {
+    "Login": "abc",
+    "Password": "O7�a�O���C��^��R�\u0003#Yp -�|n@�6\u0017f",
+    "Root": true
+  },
+  {
+    "Login": "a",
+    "Password": "�\u00113���\u0027\fOx\u001e\n9\"�\u001c����䶑\u001c�E8��\u003c�",
+    "Root": true,
+  }
+]

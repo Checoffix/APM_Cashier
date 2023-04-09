@@ -1,0 +1,4 @@
+0: Топоры Price: 200 Count: 5 AllSum: 1000
+All Sum: 1000
+Change: 200
+Was paid by cash
